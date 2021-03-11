@@ -1,6 +1,7 @@
 .profileContainer{
   display: flex;
   align-items: center;
+  margin-top: 4rem;
 }
 
 .profileContainer img{
